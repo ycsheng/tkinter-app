@@ -1,5 +1,5 @@
 ***
-github: 
+github: https://github.com/ycsheng/tkinter-app.git
 ***
 启动：
 - python server.py
